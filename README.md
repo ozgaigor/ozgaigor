@@ -22,7 +22,13 @@
 <!-- - :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS** -->
 <!-- - :book: &nbsp;Learn more about my projects on my **[blog]** -->
 <!-- - :mailbox: &nbsp;Ask me anything on my **[issues page]** -->
-- :mailbox: &nbsp;Connect with me on **[LinkedIn]**
+<div align="left">
+  <strong>Contact Me:</strong><br><br>
+  <a href="https://www.linkedin.com/in/ozgaigor/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="linkedin" /></a>
+  <a href="mailto:ozgaigor00@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="gmail" /></a>
+  <a href="https://discord.gg/_saoka"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" alt="discord" /></a>
+  
+</div>
 
 <br>
 
@@ -34,17 +40,10 @@
   <tr>
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#ozgaigor-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
   </tr>
 </table>
-
-
-<!-- links -->
-
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-
-
