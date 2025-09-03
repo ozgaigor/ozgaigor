@@ -24,7 +24,7 @@
 <!-- - :mailbox: &nbsp;Ask me anything on my **[issues page]** -->
 <div align="left">
   <strong>Contact Me:</strong><br><br>
-  <a href="https://www.linkedin.com/in/ozgaigor/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/igor-ozga-293026371/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="linkedin" /></a>
   <a href="mailto:ozgaigor00@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="gmail" /></a>
   <a href="https://discord.gg/_saoka"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35" alt="discord" /></a>
   
