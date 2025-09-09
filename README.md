@@ -1,5 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Igor Ozga</h1>
 <h3 align="left">Python Dev</h3>
+<h3 align="left">Currently organizing my study materials, so new repositories will be appearing here over time.</h3>
 
 <p align="left">
   <a href="https://github.com/ozgaigor/ozgaigor">
