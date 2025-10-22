@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgaigor&layout=compact&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800&v=2" height="150" alt="Top languages"  />
 </div>
 
-- :office: &nbsp;I'm currently searching a job
+- :office: &nbsp;Intern at Visus VR
 <!-- - :seedling: &nbsp;I’m currently working on my **[homelab]** -->
 <!-- - :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS** -->
 <!-- - :book: &nbsp;Learn more about my projects on my **[blog]** -->
