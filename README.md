@@ -32,12 +32,8 @@
 ## :bar_chart: Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozgaigor&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=1800" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgaigor&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=1800" height="165" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ozgaigor&theme=dracula&hide_border=false" height="165" alt="GitHub streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ozgaigor&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=1800" height="165" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ozgaigor&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=1800" height="165" alt="Top languages" />
 </div>
 
 ---
@@ -121,14 +117,6 @@
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
       <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
     </td>
   </tr>
 </table>
