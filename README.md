@@ -29,13 +29,13 @@
 
 ---
 
-## :bar_chart: Coding Activity
+<!-- ## :bar_chart: Coding Activity
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=ozgaigor&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=1800" height="165" alt="GitHub stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ozgaigor&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=1800" height="165" alt="Top languages" />
 </div>
-
+-->
 ---
 
 ## :hammer_and_wrench: Tech Stack
